@@ -16,5 +16,5 @@ Computer Engineering and Mathematics undergraduate at the University of Granada 
 *   **End-to-End Product Engineering:** Building deployment-ready web applications with robust relational databases, client-side rendering algorithms, and responsive interfaces.
 
 ## Contact & Professional Links
-*   **LinkedIn:** [Insert your LinkedIn URL here]
+*   **LinkedIn:** www.linkedin.com/in/francisco-javier-ortiz-molinero
 *   **Email:** javier.ortmol@gmail.com
